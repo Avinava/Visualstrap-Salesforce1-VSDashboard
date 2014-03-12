@@ -10,3 +10,9 @@ This sample demonstrates
 - How to create pages to support both Desktop and Mobile layouts
 - Handling navigation 
 - Creating responsive UI
+
+
+The package contains
+- A visualforce page VSDashboardS1 that can be used in Desktop as well as  Salesforce1, this page gives you some quick glance on cases, leads etc owned by current user.
+
+
